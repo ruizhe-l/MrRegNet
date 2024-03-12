@@ -3,7 +3,7 @@
 
 Accepcted by 21st IEEE International Symposium on Biomedical Imaging [(IEEE-ISBI 2024)](https://biomedicalimaging.org/2024/)
 
-Full paper: TODO add a link to arxiv and ISBI site
+Full paper: TODO add links to arxiv and ISBI site
 
 ## Code is coming soon
 
